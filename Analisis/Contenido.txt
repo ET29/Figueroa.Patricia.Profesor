@@ -1,0 +1,10 @@
+En la carpeta de Analisis vamos a colocar:
+Un documento de Word, que reune todo el material del proyecto.
+Caratula con 
+	Nombre de escuela
+	Materia
+	Division / Turno
+	Año
+Caratula con
+	Integrantes del Proyecto
+

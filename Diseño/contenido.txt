@@ -1,0 +1,1 @@
+En el diseño incluimos el Modelo Relacional de la base de datos.
