@@ -1,1 +1,5 @@
-En esta carpeta incluimos el diagrama de Gantt  y el diagrama de Pert (Camino Critico).
+En esta carpeta incluimos 
+
+La Matriz Foda
+El diagrama de Gantt  
+El diagrama de Pert (Camino Critico).
